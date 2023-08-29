@@ -9,5 +9,5 @@ declare global {
     interface Chainable {
       mount: typeof mount;
     }
-  }
+  } 
 }
