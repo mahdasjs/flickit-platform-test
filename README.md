@@ -5,6 +5,7 @@ Welcome to the Flickit Platform!
 This online platform provides a comprehensive set of tools 
 for assessing software teams, products, and any other aspect 
 related to software applications. With this toolkit,
+
 you can easily evaluate your software projects 
 and identify areas of improvement.
 
