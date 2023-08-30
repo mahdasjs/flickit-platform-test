@@ -38,7 +38,7 @@ jobs:
         run: yarn
         working-directory: ./frontend
       - name: Test and coverage
-        run: yarn jest --coverage frontend
+        run: yarn jest --coverage 
         working-directory: ./frontend
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
